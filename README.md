@@ -10,8 +10,15 @@ This project includes the following basic concepts of working in React-TypeScrip
 - Typing of events: MouseEvents, DragEvents, ChangeEvents
 - Typification React-router-dom
 
+# Main page
+![main](public/mainPage.png)
+# User page
+![user](public/userPage.png)
+# About user page
+![aboutUser](public/aboutUserPage.png)
+# Todo page
+![todo](public/todoPage.png)
 
-![login](public/login.png)
 
 # Getting Started with Create React App
 
