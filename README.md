@@ -1,3 +1,18 @@
+# Description
+
+This project includes the following basic concepts of working in React-TypeScript:
+- interface, types
+- Typification of props
+- React.FunctionComponent
+- Axios Query Typing
+- Hook typification useState, useRef
+- Generics
+- Typing of events: MouseEvents, DragEvents, ChangeEvents
+- Typification React-router-dom
+
+
+![login](public/login.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
